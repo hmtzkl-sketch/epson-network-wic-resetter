@@ -153,3 +153,12 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ## 💡 Contributing / Katkıda Bulunma
 
 Pull requests and model profile additions are welcome! If you have offset mappings for other Epson models, please feel free to submit a PR or open an issue.
+
+---
+
+## ⚖️ Legal Disclaimer / Yasal Uyarı & Sorumluluk Reddi
+
+- **Trademarks:** All product names, logos, trademarks, and registered trademarks (including "EPSON", "EcoTank", etc.) are property of their respective owners (Seiko Epson Corporation). Their use in this project is strictly for identification, compatibility, and interoperability purposes under fair use policies.
+- **Affiliation:** This project is an independent open-source research and maintenance initiative. It is not affiliated with, endorsed by, sponsored by, or associated in any way with Seiko Epson Corporation, 2Manuals, or WIC Reset.
+- **Warranty:** This software is distributed under the MIT License on an "AS-IS" basis without warranties of any kind. Users are responsible for the physical maintenance (sponge/pad cleaning) of their devices.
+
